@@ -1,1 +1,1 @@
-print("ironwrath-core INSERT")
+print("ironwrath-core UPDATE")
